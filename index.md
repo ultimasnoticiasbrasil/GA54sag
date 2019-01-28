@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[image.png]
+![Image](image.png)
 
 You can use the [editor on GitHub](https://github.com/ultimasnoticiasbrasil/GA54sa/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
